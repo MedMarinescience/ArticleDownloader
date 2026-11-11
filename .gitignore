@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.turkish_browser/
+selected_pdfs/
+pdfs/
+.partial-*
